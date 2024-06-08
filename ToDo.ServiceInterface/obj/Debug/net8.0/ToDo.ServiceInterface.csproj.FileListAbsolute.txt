@@ -1,0 +1,16 @@
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\bin\Debug\net8.0\ToDo.ServiceInterface.deps.json
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\bin\Debug\net8.0\ToDo.ServiceInterface.dll
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\bin\Debug\net8.0\ToDo.ServiceInterface.pdb
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\bin\Debug\net8.0\ToDo.Domain.dll
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\bin\Debug\net8.0\ToDo.Domain.pdb
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.csproj.AssemblyReference.cache
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.AssemblyInfoInputs.cache
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.AssemblyInfo.cs
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.csproj.CoreCompileInputs.cache
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.Ser.658A64B3.Up2Date
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.dll
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\refint\ToDo.ServiceInterface.dll
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.pdb
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ref\ToDo.ServiceInterface.dll
+C:\BlazorDevelopment\ToDo\ToDo.ServiceInterface\obj\Debug\net8.0\ToDo.ServiceInterface.sourcelink.json
